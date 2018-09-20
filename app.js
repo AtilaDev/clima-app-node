@@ -1,4 +1,3 @@
-// Mi clave en Maps Geocoding: AIzaSyAl9TYPC7AGExwX9Xma1b6GeHWmNxCz2KQ
 const lugar = require('./lugar/lugar');
 const clima = require('./clima/clima');
 
